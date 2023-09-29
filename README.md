@@ -38,3 +38,5 @@
 [![MySQL Workbench](https://img.shields.io/badge/Tools-MySQL%20Workbench-informational?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/products/workbench/)
 [![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white)](https://github.com/)
+[![LaTeX](https://img.shields.io/badge/Tools-LaTeX-informational?style=flat&logo=latex&logoColor=white)](https://www.latex-project.org/)
+
