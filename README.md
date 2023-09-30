@@ -1,4 +1,6 @@
-### Hi there 👋
+![Header](./your-header-image-name.png)
+
+
 
 - 👩‍💻 I'm a computer science student
 
