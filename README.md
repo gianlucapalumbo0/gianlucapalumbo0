@@ -15,10 +15,8 @@ Want to know more about me? [Check out my portfolio.]()
 ## &#x1f4c8; GitHub Stats
 
 <br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gianlucapalumbo0&show_icons=true&locale=en&layout=compact" alt="gianlucapalumbo0" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gianlucapalumbo0&show_icons=true&locale=en" alt="gianlucapalumbo0" /></p>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=gianlucapalumbo0&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianlucapalumbo0&layout=compact" />
 
 
 
