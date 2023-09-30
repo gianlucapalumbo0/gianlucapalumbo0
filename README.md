@@ -18,7 +18,7 @@ Want to know more about me? [Check out my portfolio.]()
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gianlucapalumbo0&show_icons=true&theme=radical" /> 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianlucapalumbo0&layout=compact" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianlucapalumbo0&layout=compact" />
 </div>
 
 <br>
