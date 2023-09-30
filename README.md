@@ -17,7 +17,9 @@ Want to know more about me? [Check out my portfolio.]()
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gianlucapalumbo0&show_icons=true&locale=en&layout=compact" alt="gianlucapalumbo0" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gianlucapalumbo0&show_icons=true&locale=en" alt="gianlucapalumbo0" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gianlucapalumbo0&show_icons=true&locale=en" alt="gianlucapalumbo0" /></p>
+
 
 
 <br>
