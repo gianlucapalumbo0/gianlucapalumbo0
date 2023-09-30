@@ -2,7 +2,11 @@
 
 - 👩‍💻 I'm a computer science student
 
-## Connect with me
+
+[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)]()
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)]()
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](linkedin.com/in/gianluca-palumbo-1194a927a)
+
 <a href="linkedin.com/in/gianluca-palumbo-1194a927a">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white alt="linkedin logo" />
 </a>
