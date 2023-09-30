@@ -6,19 +6,23 @@
 
 Hey there 👋
 
-I’m a computer science student
+I’m a computer science student  
+
 Want to know more about me? [Check out my portfolio.]()
 
+<br>
 
+## &#x1f4c8; GitHub Stats
 
+<br>
 
-<a href="linkedin.com/in/gianluca-palumbo-1194a927a">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white alt="linkedin logo" />
-</a>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gianlucapalumbo0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)" alt="Gianluca Palumbo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianlucapalumbo0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+</div>
 
-
--  Email: [gianlucapalumbo@outlook.com]
-
+<br>
+<br>
 
 ## Skills
 ![C](https://img.shields.io/badge/code-C-informational?style=flat&logo=c&logoColor=white)
@@ -48,4 +52,11 @@ Want to know more about me? [Check out my portfolio.]()
 [![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white)](https://github.com/)
 [![LaTeX](https://img.shields.io/badge/Tools-LaTeX-informational?style=flat&logo=latex&logoColor=white)](https://www.latex-project.org/)
+
+
+
+
+
+
+
 
