@@ -19,9 +19,9 @@ Want to know more about me? [Check out my portfolio.]()
 <br>
 
 <div align="center">  
-  <img width="51%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gianlucapalumbo0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Gianluca Palumbo github stats" /> 
+  <img width="51%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gianlucapalumbo0&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Gianluca Palumbo github stats" /> 
   
-  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianlucapalumbo0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianlucapalumbo0&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 <br>
