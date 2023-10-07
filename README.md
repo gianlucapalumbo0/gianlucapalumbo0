@@ -8,7 +8,7 @@ Hey there 👋
 
 I’m a computer science student  
 
-Want to know more about me? [Check out my portfolio.]()
+Want to know more about me? [Check out my portfolio.](https://gianlucapalumbo0.github.io/)
 
 <br>
 
