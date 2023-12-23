@@ -34,7 +34,6 @@ Want to know more about me? [Check out my portfolio.](https://gianlucapalumbo0.g
 [![MySQL](https://img.shields.io/badge/code-MySQL-informational?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![HTML](https://img.shields.io/badge/code-HTML-informational?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/code-CSS-informational?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Android](https://img.shields.io/badge/code-Android-informational?style=flat&logo=android&logoColor=white)](https://developer.android.com/)
 
 
@@ -50,7 +49,6 @@ Want to know more about me? [Check out my portfolio.](https://gianlucapalumbo0.g
 [![Notepad++](https://img.shields.io/badge/Tools-Notepad%2B%2B-informational?style=flat&logo=notepad%2B%2B&logoColor=white)](https://notepad-plus-plus.org/)
 [![Android Studio](https://img.shields.io/badge/Tools-Android%20Studio-informational?style=flat&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 [![Trello](https://img.shields.io/badge/Tools-Trello-informational?style=flat&logo=trello&logoColor=white)](https://trello.com/)
-[![Slack](https://img.shields.io/badge/Tools-Slack-informational?style=flat&logo=slack&logoColor=white)](https://slack.com/)
 [![MySQL Workbench](https://img.shields.io/badge/Tools-MySQL%20Workbench-informational?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/products/workbench/)
 [![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white)](https://github.com/)
