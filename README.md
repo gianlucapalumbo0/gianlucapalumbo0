@@ -1,7 +1,7 @@
 ![Header](./banner.png)
 
 [![Visits Badge](https://badges.pufler.dev/visits/gianlucapalumbo0/gianlucapalumbo0)]()
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Profile-informational?style=flat&logo=portfolio&logoColor=white&color=1CA2F1)](https://gianlucapalumbo0.github.io/portfolio/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Profile-informational?style=flat&logo=portfolio&logoColor=white&color=1CA2F1)](https://gianlucapalumbo0.github.io/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gianluca-palumbo0/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/gianluca_palu0)
 
@@ -10,7 +10,7 @@ Hey there 👋
 
 I’m a computer science student  
 
-Want to know more about me? [Check out my portfolio.]( https://gianlucapalumbo0.github.io/portfolio/)
+Want to know more about me? [Check out my portfolio.](https://gianlucapalumbo0.github.io/)
 
 <br>
 
