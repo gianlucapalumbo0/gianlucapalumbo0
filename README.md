@@ -3,7 +3,6 @@
 [![Visits Badge](https://badges.pufler.dev/visits/gianlucapalumbo0/gianlucapalumbo0)]()
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Profile-informational?style=flat&logo=portfolio&logoColor=white&color=1CA2F1)](https://gianlucapalumbo0.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianluca-palumbo0/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/gianluca_palu0)
 
 
 Hey there 👋
